@@ -1,0 +1,7 @@
+.wrapper-content {
+	@apply text-[20px] text-dark-navy font-normal leading-8;
+}
+
+.wrapper-writter {
+	@apply px-10 py-6 bg-ghost-white rounded-[20px] flex flex-col;
+}
