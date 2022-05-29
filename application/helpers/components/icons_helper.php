@@ -4,3 +4,8 @@ function ChevronRight($props = [])
 {
 	return view_component("./Icons/Chevron/ChevronRight", $props);
 }
+
+function MenuOpen($props = [])
+{
+	return view_component("./Icons/Menu/MenuOpen", $props);
+}

@@ -8,3 +8,4 @@ $route['translate_uri_dashes'] = FALSE;
 
 $route['(:any)'] = 'ArticleController/index/$1';
 $route['dapur/login'] = 'dapur/LoginController/index';
+$route['dapur/dashboard'] = 'dapur/DashboardController/index';
